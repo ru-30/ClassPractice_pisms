@@ -1,4 +1,13 @@
 # Pharmacy Inventory and Sales Management System (PISMS)
+---
+
+| | |
+|---|---|
+| **Student Name** | _Mugisha Espoir_ |
+| **Student Id** | _27824_ |
+| **Submission deadline** | Tuesday, 17 November 2026|
+
+---
 
 PISMS is a Windows Forms pharmacy inventory and sales application built with C# and .NET Framework 4.7.2. It supports authentication, role-based access, medicines, suppliers, stock reception, sales, customers, prescriptions, alerts, reports, and user management.
 
