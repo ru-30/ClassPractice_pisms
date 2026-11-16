@@ -5,6 +5,7 @@
 |---|---|
 | **Student Name** | _Mugisha Espoir_ |
 | **Student Id** | _27824_ |
+| **Group**  | _D_|
 | **Submission deadline** | Tuesday, 17 November 2026|
 
 ---
